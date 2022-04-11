@@ -1,0 +1,9 @@
+total 12
+drwxrwxrwx    1 root     root           512 Apr 11 00:29 .
+drwxrwxrwx    1 root     root           512 Apr 11 01:45 ..
+drwxrwxrwx    1 root     root           512 Apr 11 00:35 .git
+-rwxrwxrwx    1 root     root          2556 Apr  8 06:45 c言語.c
+-rw-r--r--    1 root     root             0 Apr 11 02:48 output.txt
+-rwxrwxrwx    1 root     root          1354 Apr 11 00:34 php.php
+-rwxrwxrwx    1 root     root           741 Apr  8 03:53 python.py
+-rwxrwxrwx    1 root     root           297 Apr 11 02:48 shellscript.sh
